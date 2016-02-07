@@ -1,0 +1,43 @@
+#menu {
+   
+
+    
+}
+#main {
+	
+	
+	}
+ #menu{
+     border-bottom: 1px solid;
+     border-bottom-color: #ccc;
+}
+
+
+ul#menu li 
+{
+    display: inline;
+    list-style-type: none;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 0px;
+    border-color: #ccc;
+    background-color: #eef;
+    
+   
+    }
+    
+#menu #current 
+    {
+         background-color: #ccc;
+    }
+li{
+    
+   
+    
+}
+a:link {
+        text-decoration: none;
+		color: black;
+		
+		}
