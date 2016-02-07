@@ -1,0 +1,47 @@
+
+#menu {
+    float: left;
+    width: 6em;
+
+    
+}
+#main p {
+	margin-left: 7em;
+	margin-top: 2.25em;
+	}
+	#main li
+	{
+	    margin-left: 9em;
+	}
+
+ul#menu li 
+{
+    border-top: 0;
+    border-bottom: 0;
+    background-color: #aac;
+    border-left: 10px solid;
+    border-left-color: #ccf;
+    border-right: 10px solid;
+    border-right-color: #44a;
+    text-align: center;
+    margin-right: 10px;
+    list-style-type: none;
+   
+    
+}
+ ul
+{
+    
+    padding: 0;
+}
+li{
+    margin: 3px;
+    
+    
+}
+
+a:link {
+
+		color: black;
+		font-weight: bold;
+		}
